@@ -1,0 +1,112 @@
+16:45:40.822 [main] INFO  testCases.BaseClass - Test Started
+16:45:40.999 [main] DEBUG testCases.BaseClass - Login page username entered
+16:45:41.069 [main] DEBUG testCases.BaseClass - Login page password entered
+16:45:41.127 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+16:45:44.192 [main] INFO  testCases.BaseClass - Test Completed
+16:45:44.192 [main] INFO  testCases.BaseClass - *************************************
+16:50:06.542 [main] INFO  testCases.BaseClass - Test Started
+16:50:06.720 [main] DEBUG testCases.BaseClass - Login page username entered
+16:50:06.790 [main] DEBUG testCases.BaseClass - Login page password entered
+16:50:06.864 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+16:50:07.896 [main] INFO  testCases.BaseClass - loginTest - PASSED
+16:50:09.906 [main] INFO  testCases.BaseClass - Test Completed
+16:50:09.906 [main] INFO  testCases.BaseClass - *************************************
+16:56:43.563 [main] INFO  testCases.BaseClass - Test Started
+16:56:43.749 [main] DEBUG testCases.BaseClass - Login page username entered
+16:56:43.812 [main] DEBUG testCases.BaseClass - Login page password entered
+16:56:43.886 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+16:56:44.981 [main] INFO  testCases.BaseClass - loginTest - PASSED
+16:56:46.999 [main] INFO  testCases.BaseClass - Test Completed
+16:56:46.999 [main] INFO  testCases.BaseClass - *************************************
+16:57:16.333 [main] INFO  testCases.BaseClass - Test Started
+16:57:16.505 [main] DEBUG testCases.BaseClass - Login page username entered
+16:57:16.583 [main] DEBUG testCases.BaseClass - Login page password entered
+16:57:16.644 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+16:57:17.682 [main] INFO  testCases.BaseClass - loginTest - PASSED
+16:57:19.689 [main] INFO  testCases.BaseClass - Test Completed
+16:57:19.689 [main] INFO  testCases.BaseClass - *************************************
+17:23:44.973 [main] INFO  testCases.BaseClass - Test Started
+17:23:45.159 [main] DEBUG testCases.BaseClass - Login page username entered
+17:23:45.238 [main] DEBUG testCases.BaseClass - Login page password entered
+17:23:45.310 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+17:23:47.084 [main] INFO  testCases.BaseClass - loginTest - PASSED
+17:23:49.104 [main] INFO  testCases.BaseClass - Test Completed
+17:23:49.104 [main] INFO  testCases.BaseClass - *************************************
+17:25:11.921 [main] INFO  testCases.BaseClass - Test Started
+17:25:12.103 [main] DEBUG testCases.BaseClass - Login page username entered
+17:25:12.173 [main] DEBUG testCases.BaseClass - Login page password entered
+17:25:12.256 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+17:25:13.342 [main] INFO  testCases.BaseClass - loginTest - PASSED
+17:25:15.364 [main] INFO  testCases.BaseClass - Test Completed
+17:25:15.364 [main] INFO  testCases.BaseClass - *************************************
+17:39:08.088 [main] INFO  testCases.BaseClass - Test Started
+17:39:08.264 [main] DEBUG testCases.BaseClass - Login page username entered
+17:39:08.332 [main] DEBUG testCases.BaseClass - Login page password entered
+17:39:08.402 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+17:39:09.853 [main] INFO  testCases.BaseClass - loginTest - FAILED
+17:39:12.091 [main] INFO  testCases.BaseClass - Test Completed
+17:39:12.091 [main] INFO  testCases.BaseClass - *************************************
+17:48:04.609 [main] INFO  testCases.BaseClass - Test Started
+17:48:04.764 [main] DEBUG testCases.BaseClass - Login page username entered
+17:48:04.836 [main] DEBUG testCases.BaseClass - Login page password entered
+17:48:04.907 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+17:48:06.100 [main] INFO  testCases.BaseClass - loginTest - FAILED
+17:48:08.298 [main] INFO  testCases.BaseClass - Test Completed
+17:48:08.298 [main] INFO  testCases.BaseClass - *************************************
+17:51:41.589 [main] INFO  testCases.BaseClass - Test Started
+17:51:41.766 [main] DEBUG testCases.BaseClass - Login page username entered
+17:51:41.834 [main] DEBUG testCases.BaseClass - Login page password entered
+17:51:41.912 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+17:51:43.066 [main] INFO  testCases.BaseClass - loginTest - FAILED
+17:51:43.272 [main] ERROR testCases.BaseClass - Screenshot is captured for failed scenario :loginTest
+17:51:45.280 [main] INFO  testCases.BaseClass - Test Completed
+17:51:45.280 [main] INFO  testCases.BaseClass - *************************************
+17:52:36.156 [main] INFO  testCases.BaseClass - Test Started
+17:52:36.346 [main] DEBUG testCases.BaseClass - Login page username entered
+17:52:36.426 [main] DEBUG testCases.BaseClass - Login page password entered
+17:52:36.502 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+17:52:37.805 [main] INFO  testCases.BaseClass - loginTest - PASSED
+17:52:39.825 [main] INFO  testCases.BaseClass - Test Completed
+17:52:39.825 [main] INFO  testCases.BaseClass - *************************************
+20:00:09.471 [main] INFO  testCases.BaseClass - Test Started
+20:00:09.651 [main] DEBUG testCases.BaseClass - Login page username entered
+20:00:09.724 [main] DEBUG testCases.BaseClass - Login page password entered
+20:00:09.797 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+20:00:11.155 [main] INFO  testCases.BaseClass - loginTest - PASSED
+20:00:13.170 [main] INFO  testCases.BaseClass - Test Completed
+20:00:13.170 [main] INFO  testCases.BaseClass - *************************************
+20:02:19.716 [main] INFO  testCases.BaseClass - Test Started
+20:02:19.899 [main] DEBUG testCases.BaseClass - Login page username entered
+20:02:19.987 [main] DEBUG testCases.BaseClass - Login page password entered
+20:02:20.082 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+20:02:21.197 [main] INFO  testCases.BaseClass - loginTest - PASSED
+20:02:23.214 [main] INFO  testCases.BaseClass - Test Completed
+20:02:23.214 [main] INFO  testCases.BaseClass - *************************************
+20:04:34.293 [main] INFO  testCases.BaseClass - Test Started
+20:04:34.459 [main] DEBUG testCases.BaseClass - Login page username entered
+20:04:34.530 [main] DEBUG testCases.BaseClass - Login page password entered
+20:04:34.601 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+20:04:35.657 [main] INFO  testCases.BaseClass - loginTest - PASSED
+20:04:37.674 [main] INFO  testCases.BaseClass - Test Completed
+20:04:37.674 [main] INFO  testCases.BaseClass - *************************************
+20:06:03.994 [main] INFO  testCases.BaseClass - Test Started
+20:06:04.187 [main] DEBUG testCases.BaseClass - Login page username entered
+20:06:04.261 [main] DEBUG testCases.BaseClass - Login page password entered
+20:06:04.334 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+20:06:05.662 [main] INFO  testCases.BaseClass - loginTest - PASSED
+20:06:07.684 [main] INFO  testCases.BaseClass - Test Completed
+20:06:07.684 [main] INFO  testCases.BaseClass - *************************************
+20:07:14.726 [main] INFO  testCases.BaseClass - Test Started
+20:07:14.925 [main] DEBUG testCases.BaseClass - Login page username entered
+20:07:14.996 [main] DEBUG testCases.BaseClass - Login page password entered
+20:07:15.065 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+20:07:16.461 [main] INFO  testCases.BaseClass - loginTest - PASSED
+20:07:18.478 [main] INFO  testCases.BaseClass - Test Completed
+20:07:18.478 [main] INFO  testCases.BaseClass - *************************************
+20:35:00.788 [main] INFO  testCases.BaseClass - Test Started
+20:35:00.983 [main] DEBUG testCases.BaseClass - Login page username entered
+20:35:01.055 [main] DEBUG testCases.BaseClass - Login page password entered
+20:35:01.131 [main] DEBUG testCases.BaseClass - Login page Login Button clicked
+20:35:02.564 [main] INFO  testCases.BaseClass - loginTest - PASSED
+20:35:04.584 [main] INFO  testCases.BaseClass - Test Completed
+20:35:04.584 [main] INFO  testCases.BaseClass - *************************************
